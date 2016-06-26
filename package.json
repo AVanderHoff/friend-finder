@@ -1,0 +1,31 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ragincajun384/friend-finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ragincajun384/friend-finder/issues"
+  },
+  "homepage": "https://github.com/Ragincajun384/friend-finder#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "path": "^0.12.7"
+  },
+  "engines":{
+    "node":"4.4.2"
+
+  }
+
+
+
+}
